@@ -4,8 +4,6 @@ Bonus:
 Aggiungere alla pagina un’immagine, presa anch’essa inserendo il percoso in una propietá dell'oggetto restituito dalla funzione data. */
 
 
-console.log('ciao');
-
 /************************************* 
                  VueJs 
 *************************************/
@@ -15,7 +13,7 @@ const { createApp } = Vue
 createApp({
   data() {
     return {
-      message: 'Hello Vue!'
+      message: 'Benvenuto nel fantastico mondo di Vue!! 😎'
     }
   }
 }).mount('#app')
